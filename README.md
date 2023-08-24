@@ -6,7 +6,7 @@
 
 # Tool Used
 - SQL
-- -Power BI
+- Power BI
 
 ## Objective
 
