@@ -5,10 +5,12 @@
 
 
 # Tool Used
-
+- SQL
+- -Power BI
 
 ## Objective
 
+Our goal will be to analyze the Iowa liquor sale dataset. 
 
 
 ## About the dataset
