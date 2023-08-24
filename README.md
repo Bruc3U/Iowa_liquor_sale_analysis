@@ -15,6 +15,8 @@ Our goal will be to analyze the Iowa liquor sale dataset.
 
 ## About the dataset
 
+The dataset can be found [here](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy)
+
 # I/Defining the goal:
 
 # II/Data Wrangling: 
