@@ -37,11 +37,15 @@ In order to do so, we will look at the sales, best-selling products, and time of
 
 # II/Data Wrangling: 
 
-Since the dataset is quite significant, 27 million rows justifies a 7 Go file. We will use SQL to format and analyze the data.<br>
+Since the dataset is quite significant, 27 million rows justify a 7 Go file. We will use SQL to format and analyze the data.<br>
 In the second part of our project, we will use Power BI to create an interactive dashboard to illustrate our insights. 
 
-# III/ Analysis:
-### A/Exploratory Data Analysis: 
+# III/Exploratory Data Analysis: 
+
+
+
+# IV/ Analysis:
+
 
 # Conclusion
 
