@@ -10,7 +10,7 @@
 
 ## Objective
 
-Our goal is to analyze the data from 2019 through 2021 to see the changes in purchasing behavior after the COVID-19 pandemic. 
+Our goal is to analyze the data from 2019 through 2022 to see the changes in purchasing behavior after the COVID-19 pandemic. 
 
 
 ## About the dataset
