@@ -41,6 +41,7 @@ Since the dataset is quite significant, more than 3 go in size. We will use SQL 
 In the second part of our project, we will use Power BI to create an interactive dashboard to illustrate our insights. 
 
 # III/ Analysis:
+### A/Exploratory Data Analysis: 
 
 # Conclusion
 
