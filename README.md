@@ -51,7 +51,8 @@ This will allow us to have a better computing performance in Power BI.
 ### 1/Exploratory Data Analysis
 
 The dataset records all of the transactions made between the year 2019 to 2022.<br>
-In Iowa, major COVID restrictions were put in place from March 2020 to September 2021.<br>
+In Iowa, COVID restrictions were put in place from June 2020 to September 2021.<br>
+Restaurants, bars, and businesses had to close due to increasing cases.<br>
 We will take a look at data before and after those events to draw our conclusions.<br>
 
 Our analysis will take a look at several features.<br>
@@ -59,7 +60,25 @@ The first step, segmentation, will help us draw a consistent consumer behavior.<
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/96f09aa6-efe1-4161-a14d-e3da09ab49c1)
 
-As we can see 
+The top best-selling cities are Des Moines, Cedar Rapids, and Davenport. The rest of the towns are significantly selling less 
+To have a better understanding let's look at those changes in percent.
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/cbaa28d6-97c0-4df8-88e1-9ff98496ed0e)
+
+
+Let's take a look at the biggest change in %. <br>
+From what the data shows, it seems that the year 2019 through the year of 2020 were just the beginning of the pandemic for the liquor market.<br>
+Most larger cities had subsequential growth.  
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/618c5b37-9f69-48af-ac7f-d38208779429)
+
+On the other hand, the changes observed between the years 2020 and 2021 are more illustrative of what happened globally during the pandemic.<br>
+Most stores suffered from the restrictive aspect of the pandemic. A few cities were able to sustain positive growth.<br>
+
+
+### 2/Consumption Habits Analysis
+
+
 
 
 We will take a look at rural inhabitants versus city dwellers' behavior. 
