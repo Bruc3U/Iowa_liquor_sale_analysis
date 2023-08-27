@@ -75,6 +75,15 @@ Most larger cities had subsequential growth.
 On the other hand, the changes observed between the years 2020 and 2021 are more illustrative of what happened globally during the pandemic.<br>
 Most stores suffered from the restrictive aspect of the pandemic. A few cities were able to sustain positive growth.<br>
 
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/4365929f-291a-4ffd-b444-26c46c991fee)
+
+To have a better overview of the situation, let's look at the counties.
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/67029079-47a2-4fac-9805-f1ecbff5938e)
+
+We observe that the same 
+
+
 
 ### 2/Consumption Habits Analysis
 
