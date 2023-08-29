@@ -95,7 +95,7 @@ By categorizing our population into rural and urban settings, we can attain a be
 The main difference between rural and urban areas is population density. 
 Our segmentation will use the number of items as a primary indicator for status.<br>
 For instance, we will apply the rural classifier when the count of items sold is below or equal to 5,000.<br>
-We will get the data from the 2019 year only. Then we will follow the evolution of those countries over the next 4 years.<br
+We will get the data from the 2019 year only. Then we will follow the evolution of those countries over the next 4 years.
                                                                                                                           
 List of the most successful Urban counties:
 
