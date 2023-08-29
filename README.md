@@ -75,18 +75,35 @@ Most larger cities had subsequential growth.
 On the other hand, the changes observed between the years 2020 and 2021 are more illustrative of what happened globally during the pandemic.<br>
 Most stores suffered from the restrictive aspect of the pandemic. A few cities were able to sustain positive growth.<br>
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/4365929f-291a-4ffd-b444-26c46c991fee)
-
 To have a better overview of the situation, let's look at the counties.
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/67029079-47a2-4fac-9805-f1ecbff5938e)
 
-We observe that the same 
-
-
+As we can observe most counties suffered losses during the pandemic.<br>
+With some exceptions, the overall negative situation remains.<br>
 
 ### 2/Consumption Habits Analysis
 
+Consumption habits greatly differ based on a multitude of factors. Since our data does not have much information on the consumer's origins, age, or familial situation, our analysis is by definition limited.<br>
+A useful feature that the dataset offers is location.<br>
+By categorizing our population into rural and urban settings, we can attain a better understanding of the context.
+
+| Rural | Urban |
+|----------|----------|
+| 5000 <=  | >= 25 000  |
+
+The main difference between rural and urban areas is population density. 
+Our segmentation will use the number of items as a primary indicator for status.<br>
+For instance, we will apply the rural classifier when the count of items sold is below or equal to 5,000.<br>
+We will get the data from the 2019 year only. Then we will follow the evolution of those counties over the next 4 years.<br>
+
+
+
+
+To get a better understanding of the Iowa residents' behavior over the last 4 years, we have to ask several questions.<br>
+- What is the top purchased item?
+- What type of liquor is the most popular?
+- What is the average quantity of liquor sold by liter?
 
 
 
