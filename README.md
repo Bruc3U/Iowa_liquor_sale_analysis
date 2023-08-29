@@ -88,29 +88,27 @@ Consumption habits greatly differ based on a multitude of factors. Since our dat
 A useful feature that the dataset offers is location.<br>
 By categorizing our population into rural and urban settings, we can attain a better understanding of the context.
 
-| Rural | Urban |
-|----------|----------|
-| 5000 <=  | >= 25 000  |
-
 The main difference between rural and urban areas is population density. 
 Our segmentation will use the number of items as a primary indicator for status.<br>
+
+| Rural | Urban |
+|----------|----------|
+| Less than 5000 sold a year | More than 25 000 item sold a year |
+| ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/5894c59c-7b06-4b3b-a9c3-2478859a7ad5) |![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/6e5f4426-bac0-48a6-9db0-548684e5de1b)|
+
 For instance, we will apply the rural classifier when the count of items sold is below or equal to 5,000.<br>
 We will get the data from the 2019 year only. Then we will follow the evolution of those countries over the next 4 years.
                                                                                                                           
-List of the most successful Urban counties:
-
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/6e5f4426-bac0-48a6-9db0-548684e5de1b)
-
-List of the most successful Rural counties:
-
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/5894c59c-7b06-4b3b-a9c3-2478859a7ad5)
-
 Now that we have our market segmented, we must focus on the consumer pattern.<br>
 
 To get a better understanding of the Iowa residents' behavior over the last 4 years, we have to ask several questions.<br>
 - What is the top purchased item?
 - What type of liquor is the most popular?
 - What is the average quantity of liquor sold by liter?
+
+Top purchased item: 
+
+
 
 # Conclusion
 
