@@ -109,12 +109,11 @@ To get a better understanding of the Iowa residents' behavior over the last 4 ye
 Year 2019:
 Urban:
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/dde3bda9-2dc6-4893-ad46-b3631c683c13)
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/c2c59c04-b0f1-496d-95ed-cf4fc0a9a63e)
 
 Rural:
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/4741fe89-0647-4abc-8a9b-57355b9ee372)
-
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/e18edd72-9940-466d-bb8a-a63e4d9237c8)
 
 Year 2020:
 
