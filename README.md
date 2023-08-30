@@ -109,6 +109,9 @@ Our segmentation will use the number of bottles sold as a primary indicator for 
 
 For instance, we will put an agglomeration in the rural class when the count of bottles sold falls below or equal to 100,000.<br>
 We will get the data from the 2019 year. Then we will follow the evolution of those countries over the next 4 years.
+
+To further our market segmentation and to avoid outlier data, we will differentiate B to B and B to C transactions.<br>
+Since our analysis is focused on the average population, we will cut out all one-time sales that are above 500 USD. 
                                                                                                                           
 Now that we have our market segmented, we must focus on the consumer pattern.<br>
 
