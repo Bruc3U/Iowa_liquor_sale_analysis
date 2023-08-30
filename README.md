@@ -58,26 +58,26 @@ We will take a look at data before and after those events to draw our conclusion
 Our analysis will take a look at several features.<br>
 The first step, segmentation, will help us draw a consistent consumer behavior.<br>
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/96f09aa6-efe1-4161-a14d-e3da09ab49c1)
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/d4493b38-d89e-44e5-8860-a36f73da725f)
+
 
 The top best-selling cities are Des Moines, Cedar Rapids, and Davenport. The rest of the towns are significantly selling less 
 To have a better understanding let's look at those changes in percent.
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/cbaa28d6-97c0-4df8-88e1-9ff98496ed0e)
-
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/f39e7258-b4e6-4202-90bf-ce202c7b78df)
 
 Let's take a look at the biggest change in %. <br>
 From what the data shows, it seems that the year 2019 through the year of 2020 were just the beginning of the pandemic for the liquor market.<br>
 Most larger cities had subsequential growth.  
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/618c5b37-9f69-48af-ac7f-d38208779429)
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/45459339-50ce-4d9f-b945-7161ffa9326e)
 
 On the other hand, the changes observed between the years 2020 and 2021 are more illustrative of what happened globally during the pandemic.<br>
 Most stores suffered from the restrictive aspect of the pandemic. A few cities were able to sustain positive growth.<br>
 
 To have a better overview of the situation, let's look at the counties.
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/67029079-47a2-4fac-9805-f1ecbff5938e)
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/fe80efa2-fcf6-441b-97d4-66afa4993166)
 
 As we can observe most counties suffered losses during the pandemic.<br>
 With some exceptions, the overall negative situation remains.<br>
@@ -93,8 +93,8 @@ Our segmentation will use the number of items as a primary indicator for status.
 
 | Rural | Urban |
 |----------|----------|
-| Less than 5000 sold a year | More than 25 000 item sold a year |
-| ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/5894c59c-7b06-4b3b-a9c3-2478859a7ad5) |![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/6e5f4426-bac0-48a6-9db0-548684e5de1b)|
+| Less than 100k sold a year | More than 250k item sold a year |
+| ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/34553ef4-fc79-447d-a36b-056ecfbae24d)|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/b3653639-97ae-4eb7-83c0-c1d7d0d49aab)|
 
 For instance, we will apply the rural classifier when the count of items sold is below or equal to 5,000.<br>
 We will get the data from the 2019 year only. Then we will follow the evolution of those countries over the next 4 years.
@@ -106,7 +106,18 @@ To get a better understanding of the Iowa residents' behavior over the last 4 ye
 - What type of liquor is the most popular?
 - What is the average quantity of liquor sold by liter?
 
-Top purchased item: 
+Year 2019:
+Urban:
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/dde3bda9-2dc6-4893-ad46-b3631c683c13)
+
+Rural:
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/4741fe89-0647-4abc-8a9b-57355b9ee372)
+
+
+Year 2020:
+
 
 
 
