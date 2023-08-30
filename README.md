@@ -29,7 +29,7 @@ The dataset can be found [here](https://data.iowa.gov/Sales-Distribution/Iowa-Li
 
 The recent events of 2020, made drastic changes to our society. Many businesses and jobs went remote. <br>
 Individuals lost their habits of going out for a while and formed new habits.<br>
-The fallout of COVID made many people travel less, and go out less frequently. Many habits were changed. 
+The fallout of COVID made many people travel less, and go out less frequently.
 
 Since alcohol is an important part of Western culture, the changes brought by such events would indeed reflect this aspect.<br>
 Our focus will be to determine how COVID-19 changed individual habits of alcohol consumption.<br>
@@ -44,19 +44,22 @@ Our first task is to reduce the number of rows. We will be filtering rows from J
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/878464bb-482b-4306-9e28-dcb00d7c5b5c)
 
-To increase our processing power, we will separate each year into its own CSV file.<br>
+To increase our processing power, we will separate each year into its own CSV file using Power Query.<br>
 This will allow us to have a better computing performance in Power BI.  
 
 # III/ Analysis:
 ### 1/Exploratory Data Analysis
 
 The dataset records all of the transactions made between the year 2019 to 2022.<br>
+
 In Iowa, COVID restrictions were put in place from June 2020 to September 2021.<br>
 Restaurants, bars, and businesses had to close due to increasing cases.<br>
 We will take a look at data before and after those events to draw our conclusions.<br>
 
 Our analysis will take a look at several features.<br>
-The first step, segmentation, will help us draw a consistent consumer behavior.<br>
+The amount of bottles sold per transaction will be used to construct our analysis.<br>
+This will allow us to track the frequency of purchases, and the popularity of certain products.<br>
+We will later, add the number of liters sold and, the total in dollars for each sale.
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/d4493b38-d89e-44e5-8860-a36f73da725f)
 
@@ -66,21 +69,29 @@ To have a better understanding let's look at those changes in percent.
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/f39e7258-b4e6-4202-90bf-ce202c7b78df)
 
-Let's take a look at the biggest change in %. <br>
 From what the data shows, it seems that the year 2019 through the year of 2020 were just the beginning of the pandemic for the liquor market.<br>
-Most larger cities had subsequential growth.  
+We can observe DES MOINES was most affected by the pandemic, with several businesses closing, most individuals remained in the suburbs or outside of the city.<br>
+For instance, WEST DES MOINES has seen the biggest increase yet, which validates the major population movement observed during the pandemic. 
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/45459339-50ce-4d9f-b945-7161ffa9326e)
 
-On the other hand, the changes observed between the years 2020 and 2021 are more illustrative of what happened globally during the pandemic.<br>
-Most stores suffered from the restrictive aspect of the pandemic. A few cities were able to sustain positive growth.<br>
+During the year 2020 through 2021, weaker growth is observed. <br>
+DES MOINES recovered most of its pandemic losses, individuals moved back after many restrictions were removed. 
 
 To have a better overview of the situation, let's look at the counties.
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/fe80efa2-fcf6-441b-97d4-66afa4993166)
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/d0976368-e7f1-423b-9da4-9f5ca78aa9ce)
 
 As we can observe most counties suffered losses during the pandemic.<br>
-With some exceptions, the overall negative situation remains.<br>
+POLK County (DES MOINES) remains sheltered from the aftermath.<br>
+This enhances our first conclusion, most urban centers barely kept their initial growth.<br> 
+Moreover, looking at counties expanded our vision on the matter.
+
+Our overall analysis confirmed several trends during the pandemic.<br>
+Many individuals moved out of city hubs and remained in the suburbs or smaller agglomerations.<br>
+The county analysis showed us the decrease in overall liquor purchases in the state of Iowa.<br>
+
+To complete our hypothesis, we will need to look at individual behavior. 
 
 ### 2/Consumption Habits Analysis
 
@@ -89,15 +100,15 @@ A useful feature that the dataset offers is location.<br>
 By categorizing our population into rural and urban settings, we can attain a better understanding of the context.
 
 The main difference between rural and urban areas is population density. 
-Our segmentation will use the number of items as a primary indicator for status.<br>
+Our segmentation will use the number of bottles sold as a primary indicator for status.<br>
 
 | Rural | Urban |
 |----------|----------|
 | Less than 100k sold a year | More than 250k item sold a year |
 | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/34553ef4-fc79-447d-a36b-056ecfbae24d)|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/b3653639-97ae-4eb7-83c0-c1d7d0d49aab)|
 
-For instance, we will apply the rural classifier when the count of items sold is below or equal to 5,000.<br>
-We will get the data from the 2019 year only. Then we will follow the evolution of those countries over the next 4 years.
+For instance, we will put an agglomeration in the rural class when the count of bottles sold falls below or equal to 100,000.<br>
+We will get the data from the 2019 year. Then we will follow the evolution of those countries over the next 4 years.
                                                                                                                           
 Now that we have our market segmented, we must focus on the consumer pattern.<br>
 
