@@ -127,6 +127,24 @@ Rural:
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/e18edd72-9940-466d-bb8a-a63e4d9237c8)
 
 Year 2020:
+Urban:
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/cac7c6cc-474b-4edf-a9e3-b11c1c512db3)
+
+
+Rural:
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/cb641ac3-da18-4867-b6c4-54047e22c4c6)
+
+Year 2021:
+Urban:
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/c13e5d2b-62ec-4a57-8f88-bd4dbbba38eb)
+
+
+Rural:
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/ed8014fb-035a-4785-a858-2e8d8c77dd6f)
 
 
 
