@@ -117,6 +117,9 @@ To get a better understanding of the Iowa residents' behavior over the last 4 ye
 - What type of liquor is the most popular?
 - What is the average quantity of liquor sold by liter?
 
+The most popular liquor is by far whiskey, in this case, black velvet is an imported Canadian whiskey.<br>
+The main difference between urban and rural would be the diversity of their choice of liquor.<br>
+As we can observe, the different type of liquor is between 3 to 5 for rural communities, while in the urban center will be between 6 and 7.<br>
 
 
 | Rural Liquor Sale By Year | | |
@@ -130,6 +133,7 @@ To get a better understanding of the Iowa residents' behavior over the last 4 ye
 |----------|----------|----------|
 | 2019    | 2020 | 2021 |
 |![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/2934e225-03c5-402b-8d81-80abd3b141ef) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/2dcda04c-bfc1-47f3-86be-829b75f0276c) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/71778b8c-f167-42e3-b5f9-211143a9f3b3)|
+
 
 
 
