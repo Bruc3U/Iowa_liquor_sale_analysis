@@ -117,34 +117,20 @@ To get a better understanding of the Iowa residents' behavior over the last 4 ye
 - What type of liquor is the most popular?
 - What is the average quantity of liquor sold by liter?
 
-Year 2019:
-Urban:
-
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/c2c59c04-b0f1-496d-95ed-cf4fc0a9a63e)
-
-Rural:
-
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/e18edd72-9940-466d-bb8a-a63e4d9237c8)
-
-Year 2020:
-Urban:
-
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/cac7c6cc-474b-4edf-a9e3-b11c1c512db3)
 
 
-Rural:
-
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/cb641ac3-da18-4867-b6c4-54047e22c4c6)
-
-Year 2021:
-Urban:
-
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/c13e5d2b-62ec-4a57-8f88-bd4dbbba38eb)
+| Rural Liquor Sale By Year | | |
+|----------|----------|----------|
+| 2019     |  2020 | 2021 | 
+|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/65b844bc-d4f3-435f-ba28-72145947c6af) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/4d8386b6-62a4-4eb9-a27d-7ed2c178fcfe) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/87273ba2-14cf-4224-8204-65e4120ff7af)|
 
 
-Rural:
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/ed8014fb-035a-4785-a858-2e8d8c77dd6f)
+| Urban Liquor Sale By Year | | |
+|----------|----------|----------|
+| 2019    | 2020 | 2021 |
+|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/2934e225-03c5-402b-8d81-80abd3b141ef) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/2dcda04c-bfc1-47f3-86be-829b75f0276c) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/71778b8c-f167-42e3-b5f9-211143a9f3b3)|
+
 
 
 
