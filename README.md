@@ -129,14 +129,15 @@ As we can observe, the different type of liquor is between 3 to 5 for rural comm
 | Rural Liquor Sale By Year | | |
 |----------|----------|----------|
 | 2019     |  2020 | 2021 | 
-|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/65b844bc-d4f3-435f-ba28-72145947c6af) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/4d8386b6-62a4-4eb9-a27d-7ed2c178fcfe) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/87273ba2-14cf-4224-8204-65e4120ff7af)|
+|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/a9d1b7b9-f12b-4002-b276-6c9c7ee6d6d8) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/cea9bd73-ee23-4e45-91b8-5e866a8c473b) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/798defac-e1af-4592-8ccb-04dbeb68f321) |
 
 
 
 | Urban Liquor Sale By Year | | |
 |----------|----------|----------|
 | 2019    | 2020 | 2021 |
-|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/2934e225-03c5-402b-8d81-80abd3b141ef) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/2dcda04c-bfc1-47f3-86be-829b75f0276c) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/71778b8c-f167-42e3-b5f9-211143a9f3b3)|
+|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/4e639883-816b-40bf-94b4-d00af2c63f26) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/f0258748-8c24-48d6-b018-c838947a59a8) |
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/bd7bc0fc-bad8-4602-bc27-33c0114cfe89) |
 
 
 
