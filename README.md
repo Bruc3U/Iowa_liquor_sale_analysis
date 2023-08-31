@@ -121,23 +121,43 @@ To get a better understanding of the Iowa residents' behavior over the last 4 ye
 - What type of liquor is the most popular?
 - What is the average quantity of liquor sold by liter?
 
+Top 3 most popular liquor among rural counties by bottle sold (2019) : 
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/6eb5c45f-cd2f-4351-87e2-47e5eb173124)
+
+
 The most popular liquor is by far whiskey, in this case, black velvet is an imported Canadian whiskey.<br>
-The main difference between urban and rural would be the diversity of their choice of liquor.<br>
+The brand has the most bottles sold and the average.<br>
+The second most popular liquor is vodka. Both best-sellers are the 1.75-liter version. 
+
+Top 3 most popular liquor among urban counties by bottle sold (2019) : 
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/8b6047eb-30d2-47ae-b87e-0791742036f6)
+
+Surprisingly, the urban taste in liquor is a little bit different.
+Fireball is by far the most popular item in Urban centers. The small bottles are the most popular.<br>
+Coming up for second place, we have Hawkeye vodka. 
+
+For the year 2019, rural and urban appear to have slightly different tastes and budgets. <br>
+
+The average price for bottles in rural areas is 11.27 USD. Meanwhile, in urban areas, the average is 17.71 USD.<br> 
+Another difference between urban and rural would be the diversity of their choice of liquor.<br>
 As we can observe, the different type of liquor is between 3 to 5 for rural communities, while in the urban center will be between 6 and 7.<br>
 
+Regarding the pandemic, urban centers saw their taste widen in 2020 and shift from whiskeys to vodkas in 2021.<br>
+Favorite day to purchase liquor 
 
-| Rural Liquor Sale By Year | | |
-|----------|----------|----------|
-| 2019     |  2020 | 2021 | 
-|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/a9d1b7b9-f12b-4002-b276-6c9c7ee6d6d8) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/cea9bd73-ee23-4e45-91b8-5e866a8c473b) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/798defac-e1af-4592-8ccb-04dbeb68f321) |
+On the other hand, rural areas went through the 
+
+The overall consumption of liters and bottles sold skyrocketed during those years.<br>
+We also observe the average cost per bottle budget. 
+
+Compared to the state average, 
 
 
 
-| Urban Liquor Sale By Year | | |
-|----------|----------|----------|
-| 2019    | 2020 | 2021 |
-|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/4e639883-816b-40bf-94b4-d00af2c63f26) | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/f0258748-8c24-48d6-b018-c838947a59a8) |
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/bd7bc0fc-bad8-4602-bc27-33c0114cfe89) |
+
+
 
 
 
@@ -145,4 +165,6 @@ As we can observe, the different type of liquor is between 3 to 5 for rural comm
 
 
 # Conclusion
+
+Recap table and state trends 
 
