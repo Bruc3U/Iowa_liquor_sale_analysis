@@ -104,8 +104,9 @@ Our segmentation will use the number of bottles sold as a primary indicator for 
 
 | Rural | Urban |
 |----------|----------|
-| Less than 100k sold a year | More than 250k item sold a year |
-| ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/34553ef4-fc79-447d-a36b-056ecfbae24d)|![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/b3653639-97ae-4eb7-83c0-c1d7d0d49aab)|
+| Less than 35k sold a year | More than 200k item sold a year |
+| ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/ecf02836-9ec2-4981-8a03-08b7e2799647) |![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/3c79ce29-6607-4846-b856-8777ea3ad34a)
+|
 
 For instance, we will put an agglomeration in the rural class when the count of bottles sold falls below or equal to 100,000.<br>
 We will get the data from the 2019 year. Then we will follow the evolution of those countries over the next 4 years.
