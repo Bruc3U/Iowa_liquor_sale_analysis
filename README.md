@@ -99,7 +99,7 @@ By categorizing our population into rural and urban settings, we can attain a be
 The main difference between rural and urban areas is population density. 
 Our segmentation will use the number of bottles sold as a primary indicator for status.<br>
 
-To further our market segmentation and to avoid outlier data, we will differentiate Business to Business activities and Business to Consummers activities.<br>
+To further our market segmentation and to avoid outlier data, we will differentiate Business to Business activities and Business to Consumers activities.<br>
 Since our analysis is focused on the average population, we will filter out all one-time sales that are above 500 USD.
 
 Segmented counties: 
@@ -183,11 +183,20 @@ Both categories went through a similar scenario where consumption increased whil
 # Conclusion
 
 In conclusion, COVID-19 has deeply affected our society in a variety of ways.<br>
-Despite differences, individuals reacted similarly to the pandemic and changed the market for a long time.<br>
-Liquor is an everyday relaxant for many individuals, during troubled times, we often see its consumption increase.<br>
-As stated earlier, 
+Despite differences, individuals reacted similarly to the pandemic and the market changed for a long time.<br>
 
-With a spike in alcohol consumption, a concerning view is addiction 
+The main challenge was the dataset size, many superficial data had to be analyzed and cleared before proceeding to any further actions.<br>
+Segmentation was needed. By categorizing our data into several groups, and limiting analysis to private individuals we were able to increase the overall accuracy.<br>
+
+Liquor is an everyday relaxant for many individuals, during troubled times, we often see its consumption increase.<br>
+Iowa's rural and urban citizens did play according to this trend.<br>
+We saw a tremendous increase in the amount purchased, with an overall taste change. A key influence for those transformations is purchasing power.<br>
+As the pandemic spread, we saw a serious decline in the liquor budget while consumption increased.<br>
+All-time favorites started to shift, for instance, vodka became the most popular drink in urban areas and ended 5 years of whiskey rein.<br>
+
+
+A spike in alcohol consumption can be detrimental to public safety.<br>
+As we all know it, the addictive nature of alcohol is destructive. We must be 
 
 # ANNEXES: 
 
