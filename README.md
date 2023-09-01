@@ -142,6 +142,7 @@ For the year 2019, rural and urban appear to have slightly different tastes and 
 The average price for bottles in rural areas is 11.27 USD. Meanwhile, in urban areas, the average is 17.71 USD.<br> 
 Another difference between urban and rural would be the diversity of their choice of liquor.<br>
 As we can observe, the different type of liquor is between 3 to 5 for rural communities, while in the urban center will be between 6 and 7.<br>
+Urban centers and rural areas have both strong liquor favorites. Fireball whiskey and Black Velvet whiskey.
 
 
 Top 3 most popular liquor among urban counties by bottle sold (2020) : 
@@ -150,19 +151,22 @@ Top 3 most popular liquor among urban counties by bottle sold (2020) :
 
 
 Regarding the pandemic, urban centers saw their taste widen in 2020 and shift from whiskeys to vodkas in 2021.<br>
-Favorite day to purchase liquor 
-
-
-urban Monday Sunday Friday
-rural Tuesday Friday Wednesday 
-
+The slow decline of Fireball whiskey will continue in 2021, and be finally replaced by Hawkeye vodka.<br>
 
 Top 3 most popular liquor among rural counties by bottle sold (2020) : 
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/3ebc3afa-d579-4fff-a97a-29e9865e1c53)
 
+Rural areas did share some similarities with larger counties. Nevertheless, those areas remain slightly different.<br>
+Individuals did expand, at a slower pace, their taste by adding other brands of vodka and whiskey.<br>
+Likewise, rural areas saw a shift of taste, from whiskey to vodka. 
 
-On the other hand, rural areas went through the 
+Let's take a deeper look at the number of bottles sold and the average liter bought for both categories.<br>
+We can observe a similar trend, both rural and urban consumed more liquor during COVID.
+
+urban Monday Sunday Friday
+rural Tuesday Friday Wednesday 
+
 
 Top 3 most popular liquor among rural counties by bottle sold (2021) : 
 
@@ -181,6 +185,8 @@ Compared to the state average,
 
 
 # Conclusion
+
+hypothesis 
 
 | Rural | Urban |
 |----------|----------|
