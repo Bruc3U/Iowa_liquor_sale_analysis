@@ -152,6 +152,7 @@ Top 3 most popular liquor among urban counties by bottle sold (2020) :
 
 Regarding the pandemic, urban centers saw their taste widen in 2020 and shift from whiskeys to vodkas in 2021.<br>
 The slow decline of Fireball whiskey will continue in 2021, and be finally replaced by Hawkeye vodka.<br>
+The brand will however remain in the top 3 most purchased liquor but the 1.75 liter bottle will be replaced by the smaller and more affordable sizes. 
 
 Top 3 most popular liquor among rural counties by bottle sold (2020) : 
 
@@ -162,21 +163,20 @@ Individuals did expand, at a slower pace, their taste by adding other brands of 
 Likewise, rural areas saw a shift of taste, from whiskey to vodka. 
 
 Let's take a deeper look at the number of bottles sold and the average liter bought for both categories.<br>
-We can observe a similar trend, both rural and urban consumed more liquor during COVID.
+We can observe a similar trend, both rural and urban consumed more liquor during COVID.<br>
 
-urban Monday Sunday Friday
-rural Tuesday Friday Wednesday 
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/993bef8b-7832-4a78-b8a9-60e1c549f017)
 
+Both categories did spend more on liquor but the quality and price per bottle decreased. Especially in urban centers.<br>
+From 2019 to 2021, urban centers saw their average bottle price drop by 17%.<br>
+On the other hand, rural areas saw a 14% drop.<br>
 
-Top 3 most popular liquor among rural counties by bottle sold (2021) : 
+This indicates the loss of purchasing power in both categories.<br>
+The change in taste could be explained by this loss of purchasing power, but also by several shortages experienced during the pandemic.<br>
 
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/67323145-14bc-46eb-98ce-28bc651afac8)
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/6376760c-2579-42ff-bcf5-24ad54d0a0fd)
 
-
-Top 3 most popular liquor among urban counties by bottle sold (2021) : 
-
-![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/0dc9e2b7-cfe6-4c33-b696-cc20c54f1624)
-
+Regarding the overall consumption trend, we can observe a clear increase in liters purchased over the years.<br>
 
 The overall consumption of liters and bottles sold skyrocketed during those years.<br>
 We also observe the average cost per bottle budget. 
@@ -200,4 +200,16 @@ hypothesis
 | Years | 
 
 Recap table and state trends 
+
+# ANNEXES: 
+
+
+Top 3 most popular liquor among rural counties by bottle sold (2021) : 
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/67323145-14bc-46eb-98ce-28bc651afac8)
+
+
+Top 3 most popular liquor among urban counties by bottle sold (2021) : 
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/0dc9e2b7-cfe6-4c33-b696-cc20c54f1624)
 
