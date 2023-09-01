@@ -193,6 +193,11 @@ Iowa's rural and urban citizens did play according to this trend.<br>
 We saw a tremendous increase in the amount purchased, with an overall taste change. A key influence for those transformations is purchasing power.<br>
 As the pandemic spread, we saw a serious decline in the liquor budget while consumption increased.<br>
 All-time favorites started to shift, for instance, vodka became the most popular drink in urban areas and ended 5 years of whiskey rein.<br>
+On the other side, rural areas saw the same trend. Vodka consumption increased. 
+
+We can draw several hypotheses for such change.<br>
+The shift in taste could be explained by a lower budget for alcohol caused by a tightening of the job market. With less purchasing power, individuals resorted to cheaper liquor.<br>
+The size of bottles also shrank, for instance in 2021, the famous 1.75-liter cinnamon whiskey bottles were exchanged for smaller versions. 
 
 
 A spike in alcohol consumption can be detrimental to public safety.<br>
