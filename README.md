@@ -176,30 +176,14 @@ The change in taste could be explained by this loss of purchasing power, but als
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/6376760c-2579-42ff-bcf5-24ad54d0a0fd)
 
-Regarding the overall consumption trend, we can observe a clear increase in liters purchased over the years.<br>
-
 The overall consumption of liters and bottles sold skyrocketed during those years.<br>
-We also observe the average cost per bottle budget. 
-
-Compared to the state average, 
-
+The pandemic changed several key behaviors in rural and urban populations.<br>
+Both categories went through a similar scenario where consumption increased while tastes changed.<br>
 
 # Conclusion
 
-hypothesis 
-
-| Rural | Urban |
-|----------|----------|
-| Years | 
-|2019|  | |
-|2020| | |
-|2021| | |
-
-| State | 
-|---------|
-| Years | 
-
-Recap table and state trends 
+In conclusion, COVID-19 has deeply affected our society in a variety of ways.<br>
+Despite differences, individuals reacted similarly to the pandemic and changed the market for a long time.<br>
 
 # ANNEXES: 
 
