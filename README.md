@@ -136,7 +136,7 @@ Top 3 most popular liquor among urban counties by bottle sold (2019) :
 
 Surprisingly, the urban taste in liquor is a little bit different.
 Fireball is by far the most popular item in Urban centers. The small bottles are the most popular.<br>
-Coming up for second place, we have Hawkeye vodka. 
+Coming up for second place, we have Hawkeye vodka.
 
 For the year 2019, rural and urban appear to have slightly different tastes and budgets. <br>
 
@@ -144,10 +144,36 @@ The average price for bottles in rural areas is 11.27 USD. Meanwhile, in urban a
 Another difference between urban and rural would be the diversity of their choice of liquor.<br>
 As we can observe, the different type of liquor is between 3 to 5 for rural communities, while in the urban center will be between 6 and 7.<br>
 
+
+Top 3 most popular liquor among urban counties by bottle sold (2020) : 
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/05570f2c-fa44-4251-8b72-64b7fa719fca)
+
+
 Regarding the pandemic, urban centers saw their taste widen in 2020 and shift from whiskeys to vodkas in 2021.<br>
 Favorite day to purchase liquor 
 
+
+urban Monday Sunday Friday
+rural Tuesday Friday Wednesday 
+
+
+Top 3 most popular liquor among rural counties by bottle sold (2020) : 
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/3ebc3afa-d579-4fff-a97a-29e9865e1c53)
+
+
 On the other hand, rural areas went through the 
+
+Top 3 most popular liquor among rural counties by bottle sold (2021) : 
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/67323145-14bc-46eb-98ce-28bc651afac8)
+
+
+Top 3 most popular liquor among urban counties by bottle sold (2021) : 
+
+![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/0dc9e2b7-cfe6-4c33-b696-cc20c54f1624)
+
 
 The overall consumption of liters and bottles sold skyrocketed during those years.<br>
 We also observe the average cost per bottle budget. 
@@ -155,16 +181,18 @@ We also observe the average cost per bottle budget.
 Compared to the state average, 
 
 
-
-
-
-
-
-
-
-
-
 # Conclusion
+
+| Rural | Urban |
+|----------|----------|
+| Years | 
+|2019|  | |
+|2020| | |
+|2021| | |
+
+| State | 
+|---------|
+| Years | 
 
 Recap table and state trends 
 
