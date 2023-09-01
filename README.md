@@ -7,6 +7,7 @@
 # Tool Used
 - SQL
 - Power BI
+- Excel
 
 ## Objective
 
