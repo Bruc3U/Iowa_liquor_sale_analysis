@@ -53,26 +53,22 @@ This will allow us to have a better computing performance in Power BI.
 # III/ Analysis:
 ### 1/Exploratory Data Analysis
 
-The dataset records all of the transactions made between the year 2019 to 2022.<br>
-
-In Iowa, COVID restrictions were put in place from June 2020 to September 2021.<br>
-Restaurants, bars, and businesses had to close due to increasing cases.<br>
+In Iowa, COVID-19 restrictions were effective from June 2020 to September 2021. Restaurants, bars, and businesses had to close due to increasing cases.<br>
 We will take a look at data before and after those events to draw our conclusions.<br>
 
 Our analysis will take a look at several features.<br>
-The amount of bottles sold per transaction will be used to construct our analysis.<br>
-This will allow us to track the frequency of purchases, and the popularity of certain products.<br>
-We will later, add the number of liters sold and, the total in dollars for each sale.
+
+The amount of bottles sold per transaction will be used to construct our analysis. This will allow us to track the frequency of purchases, and the popularity of certain products.<br>
+Our goal is to first draw a general trend and then isolate factors to follow with a focused view. 
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/d4493b38-d89e-44e5-8860-a36f73da725f)
 
-
-The top best-selling cities are Des Moines, Cedar Rapids, and Davenport. The rest of the towns are significantly selling less 
+The top best-selling cities are Des Moines, Cedar Rapids, and Davenport. The rest of the towns are significantly selling less.<br>
 To have a better understanding let's look at those changes in percent.
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/f39e7258-b4e6-4202-90bf-ce202c7b78df)
 
-From what the data shows, it seems that the year 2019 through the year of 2020 were just the beginning of the pandemic for the liquor market.<br>
+From what the data shows, it seems that the year 2019 through the year of 2020 was just the beginning.<br>
 We can observe DES MOINES was most affected by the pandemic, with several businesses closing, most individuals remained in the suburbs or outside of the city.<br>
 For instance, WEST DES MOINES has seen the biggest increase yet, which validates the major population movement observed during the pandemic. 
 
@@ -85,16 +81,14 @@ To have a better overview of the situation, let's look at the counties.
 
 ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/d0976368-e7f1-423b-9da4-9f5ca78aa9ce)
 
-As we can observe most counties suffered losses during the pandemic.<br>
-POLK County (DES MOINES) remains sheltered from the aftermath.<br>
+As we can observe most counties suffered losses during the pandemic. POLK County (DES MOINES) remains sheltered from the aftermath.<br>
 This enhances our first conclusion, most urban centers barely kept their initial growth.<br> 
-Moreover, looking at counties expanded our vision on the matter.
 
-Our overall analysis confirmed several trends during the pandemic.<br>
-Many individuals moved out of city hubs and remained in the suburbs or smaller agglomerations.<br>
-The county analysis showed us the decrease in overall liquor purchases in the state of Iowa.<br>
+Our overall analysis confirmed several trends during the pandemic. Many individuals moved out of city hubs and remained in the suburbs or smaller agglomerations.<br>
+The county analysis showed us the decrease in overall liquor purchases in the state of Iowa.
 
-To complete our hypothesis, we will need to look at individual behavior. 
+Despite our analysis, the data does not differentiate between individuals and businesses. Our goal is to draw conclusions on the behavioral changes of Iowa residents, not businesses.<br>
+In this case, we will need to restrict the data to avoid business transactions in order to focus on private individuals. 
 
 ### 2/Consumption Habits Analysis
 
@@ -105,16 +99,19 @@ By categorizing our population into rural and urban settings, we can attain a be
 The main difference between rural and urban areas is population density. 
 Our segmentation will use the number of bottles sold as a primary indicator for status.<br>
 
+To further our market segmentation and to avoid outlier data, we will differentiate Business to Business activities and Business to Consummers activities.<br>
+Since our analysis is focused on the average population, we will filter out all one-time sales that are above 500 USD.
+
+Segmented counties: 
+
 | Rural | Urban |
 |----------|----------|
 | Less than 35k sold a year | More than 200k item sold a year |
 | ![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/ecf02836-9ec2-4981-8a03-08b7e2799647) |![image](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/assets/142362478/3c79ce29-6607-4846-b856-8777ea3ad34a)|
 
-For instance, we will put an agglomeration in the rural class when the count of bottles sold falls below or equal to 100,000.<br>
-We will get the data from the 2019 year. Then we will follow the evolution of those countries over the next 4 years.
-
-To further our market segmentation and to avoid outlier data, we will differentiate B to B and B to C transactions.<br>
-Since our analysis is focused on the average population, we will cut out all one-time sales that are above 500 USD. 
+Counties are classified by count of bottles sold.<br>
+For instance, an agglomeration will be placed in the rural category when the count of bottles sold falls below or is equal to 100,000.<br>
+To follow the evolution of those countries over the next 4 years, we will use the data from 2019. 
                                                                                                                           
 Now that we have our market segmented, we must focus on the consumer pattern.<br>
 
@@ -187,6 +184,8 @@ Both categories went through a similar scenario where consumption increased whil
 
 In conclusion, COVID-19 has deeply affected our society in a variety of ways.<br>
 Despite differences, individuals reacted similarly to the pandemic and changed the market for a long time.<br>
+Liquor is an everyday relaxant for many individuals, during troubled times, we often see its consumption increase.<br>
+As stated earlier, 
 
 With a spike in alcohol consumption, a concerning view is addiction 
 
