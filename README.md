@@ -17,28 +17,30 @@ Our goal is to analyze the data from 2019 through 2022 to see the changes in pur
 ## About the dataset
 
 The dataset records all liquor purchases made in the state of Iowa between 2012 through 2021.<br>
+
 Many factors were recorded:
 
 - Date
 - Location of Purchase
+- Store name
 - Type of product
 - Liters sold
+- Number of bottles per transaction
 
 The dataset can be found [here](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy)
 
 # I/Defining the goal:
 
-The recent events of 2020, made drastic changes to our society. Many businesses and jobs went remote. <br>
-Individuals lost their habits of going out for a while and formed new habits.<br>
-The fallout of COVID made many people travel less, and go out less frequently.
+The recent events of 2020, made drastic changes to our society. Many businesses and jobs were affected. <br>
+Individuals changed their behavior and formed new habits.<br>
+The fallout of COVID made many people travel less, and participate in outdoor activities less frequently.
 
-Since alcohol is an important part of Western culture, the changes brought by such events would indeed reflect this aspect.<br>
-Our focus will be to determine how COVID-19 changed individual habits of alcohol consumption.<br>
-In order to do so, we will look at the sales, best-selling products, and time of purchase. 
+Distilled fermented grains are an important part of Western culture. Sudden recent changes could influence our way of viewing and interacting with it.<br>
+Our mission will be to determine how COVID-19 changed Iowa's resident alcohol consumption and how it impacted their daily life.<br>
 
 # II/Data Wrangling: 
 
-Since the dataset is quite significant, 27 million rows justify a 7 Go file. We will use Google Could's Big query SQL to format and analyze the data.<br>
+The dataset is quite significant, with 27 million rows. Google Could's Big Query SQL seems a perfect tool to format and analyze big amounts of data.<br>
 In the second part of our project, we will use Power BI to create an interactive dashboard to illustrate our insights.
 
 Our first task is to reduce the number of rows. We will be filtering rows from January 1st, 2019 to December 31st, 2022. <br>
@@ -185,6 +187,8 @@ Both categories went through a similar scenario where consumption increased whil
 
 In conclusion, COVID-19 has deeply affected our society in a variety of ways.<br>
 Despite differences, individuals reacted similarly to the pandemic and changed the market for a long time.<br>
+
+With a spike in alcohol consumption, a concerning view is addiction 
 
 # ANNEXES: 
 
