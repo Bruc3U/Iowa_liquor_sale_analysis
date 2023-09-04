@@ -199,10 +199,8 @@ We can draw several hypotheses for such change.<br>
 The shift in taste could be explained by a lower budget for alcohol caused by a tightening of the job market. With less purchasing power, individuals resorted to cheaper liquor.<br>
 The size of bottles also shrank, for instance in 2021, the famous 1.75-liter cinnamon whiskey bottles were exchanged for smaller versions. 
 
-
-A spike in alcohol consumption can be detrimental to public safety.<br>
-As we all know it, the addictive nature of alcohol is destructive. We must be 
-
+Overall the liquor market in Iowa reflected well what most people went through during the pandemic.<br>
+An issue with the trend we observed, could be a higher consumption of alcohol could lead a society to major health issues in the long term. 
 # ANNEXES: 
 
 
