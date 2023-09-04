@@ -200,7 +200,9 @@ The shift in taste could be explained by a lower budget for alcohol caused by a 
 The size of bottles also shrank, for instance in 2021, the famous 1.75-liter cinnamon whiskey bottles were exchanged for smaller versions. 
 
 Overall the liquor market in Iowa reflected well what most people went through during the pandemic.<br>
-An issue with the trend we observed, could be a higher consumption of alcohol could lead a society to major health issues in the long term. 
+A major decrease in purchasing power coupled with economic instability caused many individuals to lower their expenses.<br>
+This event definitely shifted consumer behavior and encouraged individuals to drink in a greater amount and more frequently.<br>
+
 # ANNEXES: 
 
 
