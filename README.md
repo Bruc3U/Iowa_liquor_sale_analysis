@@ -11,7 +11,7 @@
 
 ## Objective
 
-Our goal is to analyze the data from 2019 through 2022 to see the changes in purchasing behavior after the COVID-19 pandemic. 
+How did COVID-19 affect liquor consumption in Iowa? 
 
 
 ## About the dataset
